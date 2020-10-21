@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603291441 source:c:\users\asus\documents\projectos c\miprimeravariable\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
